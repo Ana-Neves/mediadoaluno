@@ -1,17 +1,21 @@
-# Média do Aluno em Dart 📚📊
+# Student Average in Dart 📚📊
 
-Este é um simples aplicativo em Dart que calcula a média do aluno com base nas notas fornecidas.
+This is a simple Dart application that calculates a student's average based on the grades provided.
 
-## Como usar 🤔💡
+## How to use 🤔💡
 
-1. Clone o repositório para sua máquina local.
-2. Certifique-se de ter o Dart instalado.
-3. Abra o terminal e navegue até o diretório do projeto.
-4. Execute o comando `dart aluno.dart`.
-5. Siga as instruções na tela para inserir as notas.
-6. A média do aluno será calculada e exibida!
+1. Clone the repository to your local machine.
 
+2. Make sure you have Dart installed.
 
-## Licença 📝📜
+3. Open the terminal and navigate to the project directory.
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+4. Run the command `dart student.dart`.
+
+5. Follow the on-screen instructions to enter the grades.
+
+6. The student's average will be calculated and displayed!
+
+## License 📝📜
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
